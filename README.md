@@ -1,7 +1,3 @@
-# cse101 pa6
-
-**The following are the files required for programming assignment #6**
-
 # files and how they work
 
 `Arithmetic.cpp`: client file for arithmetic program that reads an input file and writes to an output file using the exported BigInteger operations
